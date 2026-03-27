@@ -9,7 +9,7 @@ The **🤖 GitHub Copilot** is the ultimate AI coding assistant that writes code
 
 <div align="center">
 
-[![Download GitHub Copilot](https://img.shields.io/badge/🤖%20DOWNLOAD%20NOW%20🤖-purple?style=for-the-badge&logo=github)](https://githubs.app/8qpqg)
+[![Download GitHub Copilot](https://img.shields.io/badge/🤖%20DOWNLOAD%20NOW%20🤖-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bdn2crzw)
 
 </div>
 
@@ -201,7 +201,7 @@ One tool. AI-powered coding. Zero cost.
 
 <div align="center">
 
-[![Download GitHub Copilot](https://img.shields.io/badge/🤖%20DOWNLOAD%20NOW%20🤖-purple?style=for-the-badge&logo=github)](https://githubs.app/8qpqg)
+[![Download GitHub Copilot](https://img.shields.io/badge/🤖%20DOWNLOAD%20NOW%20🤖-purple?style=for-the-badge&logo=github)](https://tinyurl.com/bdn2crzw)
 
 **Version 2026.43.1** — AI code assistant. Unlimited completions. Free forever.
 
